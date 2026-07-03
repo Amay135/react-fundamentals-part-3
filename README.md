@@ -1,12 +1,80 @@
-# React + Vite
+# React Fundamentals Part 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my third React learning project built with React and Vite. The project focuses on practicing fundamental React concepts and improving frontend development skills.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Functional Components
+- JSX Syntax
+- Props and Component Reusability
+- State Management with useState
+- Event Handling
+- React Hooks Basics
+- Modular Project Structure
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+## Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Amay135/react-3.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd react-3
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```text
+http://localhost:5173
+```
+
+## Project Structure
+
+```text
+react-3/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## Learning Objectives
+
+- Understand React component architecture.
+- Learn how to pass data using props.
+- Practice state management with hooks.
+- Build reusable and maintainable user interfaces.
+
+## Author
+
+Amay
+
+GitHub: https://github.com/Amay135
