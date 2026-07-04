@@ -25,13 +25,13 @@ This repository contains my third React learning project built with React and Vi
 Clone this repository:
 
 ```bash
-git clone https://github.com/Amay135/react-3.git
+git clone https://github.com/Amay135/react-fundamentals-part-3.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd react-3
+cd react-fundamentals-part-3
 ```
 
 Install dependencies:
